@@ -1,4 +1,5 @@
 https://www.interviewbit.com/problems/buffered-reader/
+solved in: Java7
 
 import java.lang.*;
 import java.util.*;
